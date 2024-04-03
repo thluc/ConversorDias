@@ -1,16 +1,29 @@
-# urllauncher
+<h1 align="center"> 📆 - Calculador de Dias </h1>
 
-A new Flutter project.
+<br>
 
-## Getting Started
+<div>
+<h2 align="center"> Sobre </h2>
+<p align="center"> O projeto foi feito com foco em calcular o total de dias a partir dos dados inseridos pelo usuário. </p>
+</div>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<div align="center">
+<img src="https://github.com/thluc/ConversorDias/assets/100222499/a53acff4-ba44-43c3-8813-a9ea1e617d3e" width="280" height="330">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+</div>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br>
+
+<h2 align="center"> 🛠 Ferramentas Utilizadas: </h2>
+<p align="center"> • Flutter <br> • Visual Studio Code </p>
+</div>
+
+<br>
+
+<div align="center">
+  <h2 align="center">👨‍💻 - Desenvolvedor</h2>
+        <p><a href='https://github.com/thluc'>Thiago dos Santos</a></p>
+</div>
+
+
